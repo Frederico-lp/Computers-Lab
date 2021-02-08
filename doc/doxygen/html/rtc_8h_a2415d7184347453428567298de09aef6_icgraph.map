@@ -1,0 +1,10 @@
+<map id="rtc_read_hour" name="rtc_read_hour">
+<area shape="rect" id="node1" title="Reads current hour." alt="" coords="696,56,807,83"/>
+<area shape="rect" id="node2" href="$rtc_8h.html#a253bb0688c48527c7ebd0048db4a0cf5" title="Determines if is currently day or night(assuming day from 8h to 19h)" alt="" coords="522,5,629,32"/>
+<area shape="rect" id="node5" href="$video_8c.html#a99d2da2559e11200c6b40c469e9977ec" title=" " alt="" coords="503,81,648,108"/>
+<area shape="rect" id="node3" href="$game_8h.html#aa2deaf0f63ca4a73a37b86d05678fb46" title="main game function which contains the driver receive loop and controls every device interruptions for..." alt="" coords="176,81,267,108"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,81,128,108"/>
+<area shape="rect" id="node6" href="$game_8h.html#a600fdb177cba954c38f6b43e84c75e67" title="calculates and updates ball movement" alt="" coords="323,81,447,108"/>
+<area shape="rect" id="node7" href="$game_8h.html#abf46486d68a06b8bc67de0cb4a4308d6" title="main menu function that controls the mouse movement on the screen, and checks if the mouse is on top ..." alt="" coords="335,132,434,159"/>
+<area shape="rect" id="node8" href="$game_8h.html#ab1ab09864d42b680af7cd5cc184bf8c1" title="calculates and updates the rackets movements" alt="" coords="315,183,455,209"/>
+</map>

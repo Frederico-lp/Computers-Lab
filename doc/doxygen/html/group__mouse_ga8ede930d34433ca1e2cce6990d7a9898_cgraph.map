@@ -1,0 +1,5 @@
+<map id="mouse_read_data" name="mouse_read_data">
+<area shape="rect" id="node1" title="Send data packet request to the mouse." alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node2" href="$group__mouse.html#ga7a769bcdab7ded10f2a9bbd77747d504" title="Sends a command to the mouse." alt="" coords="192,5,331,32"/>
+<area shape="rect" id="node3" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="379,5,477,32"/>
+</map>

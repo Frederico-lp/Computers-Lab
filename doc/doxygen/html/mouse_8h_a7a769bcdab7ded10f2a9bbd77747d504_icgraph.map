@@ -1,0 +1,9 @@
+<map id="mouse_send_cmd" name="mouse_send_cmd">
+<area shape="rect" id="node1" title="Sends a command to the mouse." alt="" coords="569,93,708,120"/>
+<area shape="rect" id="node2" href="$mouse_8c.html#a1866c5c27307bdccfb9aaf53d312afe0" title=" " alt="" coords="399,5,437,32"/>
+<area shape="rect" id="node3" href="$mouse_8h.html#abc03525b8ab9f878a8d02bba17496f23" title="Disables the mouse data reporting." alt="" coords="340,57,496,98"/>
+<area shape="rect" id="node6" href="$mouse_8h.html#aa5ac9227488616edd09184c64d49955c" title="Activates the mouse data reporting." alt="" coords="315,123,521,149"/>
+<area shape="rect" id="node7" href="$mouse_8h.html#a8ede930d34433ca1e2cce6990d7a9898" title="Send data packet request to the mouse." alt="" coords="349,173,487,200"/>
+<area shape="rect" id="node4" href="$game_8h.html#aa2deaf0f63ca4a73a37b86d05678fb46" title="main game function which contains the driver receive loop and controls every device interruptions for..." alt="" coords="176,93,267,120"/>
+<area shape="rect" id="node5" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,93,128,120"/>
+</map>

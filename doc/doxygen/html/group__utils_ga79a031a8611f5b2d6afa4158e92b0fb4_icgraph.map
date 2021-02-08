@@ -1,0 +1,26 @@
+<map id="util_sys_inb" name="util_sys_inb">
+<area shape="rect" id="node1" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="1191,252,1289,279"/>
+<area shape="rect" id="node2" href="$group__mouse.html#gadc675e4ab90f314bf4aa8f1534bc2ee5" title="Tries to read unused data." alt="" coords="765,34,916,60"/>
+<area shape="rect" id="node5" href="$group__keyboard.html#gaea970a154161a35f6894898a092ed70a" title="Handles the Keybpard interrupts." alt="" coords="1023,84,1087,111"/>
+<area shape="rect" id="node7" href="$group__keyboard.html#ga5990f5a8aaff95325b5474fd54b312fa" title="Operates the keyboard in polling mode." alt="" coords="1007,135,1103,162"/>
+<area shape="rect" id="node8" href="$group__keyboard.html#ga712f13036ed1f409f3820c8220c7af3e" title="Activates the keyboard interrupts." alt="" coords="982,186,1127,228"/>
+<area shape="rect" id="node9" href="$group__mouse.html#ga210374b50462acdedab00df64d5cea3c" title="Handles the mouse interrupts." alt="" coords="599,194,685,220"/>
+<area shape="rect" id="node10" href="$group__mouse.html#ga97ed12f4eae37765c134fd3989f1e378" title="Requests the mouse to send packets and if the mouse has packets to send the function will read the pa..." alt="" coords="967,303,1143,330"/>
+<area shape="rect" id="node11" href="$group__mouse.html#ga7a769bcdab7ded10f2a9bbd77747d504" title="Sends a command to the mouse." alt="" coords="573,303,711,330"/>
+<area shape="rect" id="node16" href="$group__rtc.html#gaa9dcd317e26ad6ebdace3594ff80fa86" title="Reads data from a rtc register." alt="" coords="1017,404,1092,431"/>
+<area shape="rect" id="node23" href="$group__timer.html#ga703c60b40c8c49607d6ecb6fef82d27a" title="Reads the input timer configuration (status) via read&#45;back command." alt="" coords="995,455,1115,482"/>
+<area shape="rect" id="node3" href="$group__game.html#gaa2deaf0f63ca4a73a37b86d05678fb46" title="main game function which contains the driver receive loop and controls every device interruptions for..." alt="" coords="176,354,267,380"/>
+<area shape="rect" id="node4" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,354,128,380"/>
+<area shape="rect" id="node6" href="$group__video.html#ga1706f090dc5a966799a44e9f55c66c3a" title="exits the function when esc key is released, stays in loop otherwise" alt="" coords="787,135,895,162"/>
+<area shape="rect" id="node12" href="$mouse_8c.html#a1866c5c27307bdccfb9aaf53d312afe0" title=" " alt="" coords="399,186,437,212"/>
+<area shape="rect" id="node13" href="$group__mouse.html#gabc03525b8ab9f878a8d02bba17496f23" title="Disables the mouse data reporting." alt="" coords="340,237,496,278"/>
+<area shape="rect" id="node14" href="$group__mouse.html#gaa5ac9227488616edd09184c64d49955c" title="Activates the mouse data reporting." alt="" coords="315,303,521,330"/>
+<area shape="rect" id="node15" href="$group__mouse.html#ga8ede930d34433ca1e2cce6990d7a9898" title="Send data packet request to the mouse." alt="" coords="349,354,487,380"/>
+<area shape="rect" id="node17" href="$group__rtc.html#ga2415d7184347453428567298de09aef6" title="Reads current hour." alt="" coords="785,404,896,431"/>
+<area shape="rect" id="node18" href="$group__rtc.html#ga253bb0688c48527c7ebd0048db4a0cf5" title="Determines if is currently day or night(assuming day from 8h to 19h)" alt="" coords="589,404,695,431"/>
+<area shape="rect" id="node19" href="$video_8c.html#a99d2da2559e11200c6b40c469e9977ec" title=" " alt="" coords="569,506,715,532"/>
+<area shape="rect" id="node20" href="$group__game.html#ga600fdb177cba954c38f6b43e84c75e67" title="calculates and updates ball movement" alt="" coords="356,506,480,532"/>
+<area shape="rect" id="node21" href="$group__game.html#gabf46486d68a06b8bc67de0cb4a4308d6" title="main menu function that controls the mouse movement on the screen, and checks if the mouse is on top ..." alt="" coords="369,556,467,583"/>
+<area shape="rect" id="node22" href="$group__game.html#gab1ab09864d42b680af7cd5cc184bf8c1" title="calculates and updates the rackets movements" alt="" coords="348,607,488,634"/>
+<area shape="rect" id="node24" href="$group__timer.html#gaf2c04fa8e97ffa748fd3f612886a92a7" title="Changes the operating frequency of a timer Must use the read&#45;back command so that it does not change ..." alt="" coords="763,455,919,482"/>
+</map>

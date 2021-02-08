@@ -1,0 +1,5 @@
+<map id="mouse_ih" name="mouse_ih">
+<area shape="rect" id="node1" title="Handles the mouse interrupts." alt="" coords="315,5,400,32"/>
+<area shape="rect" id="node2" href="$game_8h.html#aa2deaf0f63ca4a73a37b86d05678fb46" title="main game function which contains the driver receive loop and controls every device interruptions for..." alt="" coords="176,5,267,32"/>
+<area shape="rect" id="node3" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,128,32"/>
+</map>

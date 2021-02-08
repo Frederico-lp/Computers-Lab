@@ -1,0 +1,12 @@
+<map id="main_menu" name="main_menu">
+<area shape="rect" id="node1" title="main menu function that controls the mouse movement on the screen, and checks if the mouse is on top ..." alt="" coords="5,93,104,120"/>
+<area shape="rect" id="node2" href="$group__video.html#ga212c42d3b762956e8895c12380ec27ef" title="copies video memory to a second buffer that draws image on the screen" alt="" coords="179,43,270,69"/>
+<area shape="rect" id="node3" href="$video_8c.html#a99d2da2559e11200c6b40c469e9977ec" title=" " alt="" coords="152,93,297,120"/>
+<area shape="rect" id="node10" href="$group__video.html#ga910e2a0779673e3357bcf38d838db76e" title="draws a xpm in video memory" alt="" coords="358,144,449,171"/>
+<area shape="rect" id="node4" href="$group__rtc.html#ga2415d7184347453428567298de09aef6" title="Reads current hour." alt="" coords="348,43,459,69"/>
+<area shape="rect" id="node8" href="$video_8c.html#a5e5b25bd525250f61f40b9e9f212d5e6" title=" " alt="" coords="345,93,461,120"/>
+<area shape="rect" id="node5" href="$group__rtc.html#gafb27320c4d7c6aedf0d9e7989ae59ebd" title="Converts number from bcd to decimal." alt="" coords="509,5,633,32"/>
+<area shape="rect" id="node6" href="$group__rtc.html#gaa9dcd317e26ad6ebdace3594ff80fa86" title="Reads data from a rtc register." alt="" coords="534,56,609,83"/>
+<area shape="rect" id="node7" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="681,56,780,83"/>
+<area shape="rect" id="node9" href="$video_8c.html#a08c498ffeb0a3962e3b7711b57397741" title=" " alt="" coords="514,119,629,145"/>
+</map>

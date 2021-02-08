@@ -1,0 +1,6 @@
+<map id="kbc_ih" name="kbc_ih">
+<area shape="rect" id="node1" title="Handles the Keybpard interrupts." alt="" coords="332,31,396,57"/>
+<area shape="rect" id="node2" href="$group__game.html#gaa2deaf0f63ca4a73a37b86d05678fb46" title="main game function which contains the driver receive loop and controls every device interruptions for..." alt="" coords="185,5,275,32"/>
+<area shape="rect" id="node4" href="$group__video.html#ga1706f090dc5a966799a44e9f55c66c3a" title="exits the function when esc key is released, stays in loop otherwise" alt="" coords="176,56,284,83"/>
+<area shape="rect" id="node3" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,128,32"/>
+</map>

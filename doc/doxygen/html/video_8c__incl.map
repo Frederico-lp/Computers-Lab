@@ -1,0 +1,13 @@
+<map id="video.c" name="video.c">
+<area shape="rect" id="node1" title=" " alt="" coords="267,5,336,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,155,91,181"/>
+<area shape="rect" id="node3" href="$i8042_8h.html" title=" " alt="" coords="49,80,119,107"/>
+<area shape="rect" id="node4" href="$video_8h.html" title=" " alt="" coords="143,80,214,107"/>
+<area shape="rect" id="node5" href="$video__macros_8h.html" title=" " alt="" coords="239,80,364,107"/>
+<area shape="rect" id="node6" href="$keyboard_8h.html" title=" " alt="" coords="389,80,483,107"/>
+<area shape="rect" id="node9" href="$timer_8h.html" title=" " alt="" coords="507,80,575,107"/>
+<area shape="rect" id="node11" href="$rtc_8h.html" title=" " alt="" coords="600,80,651,107"/>
+<area shape="rect" id="node7" title=" " alt="" coords="451,155,522,181"/>
+<area shape="rect" id="node8" title=" " alt="" coords="352,155,427,181"/>
+<area shape="rect" id="node10" title=" " alt="" coords="547,155,629,181"/>
+</map>

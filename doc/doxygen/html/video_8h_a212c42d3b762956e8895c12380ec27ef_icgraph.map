@@ -1,0 +1,6 @@
+<map id="buffer_cpy" name="buffer_cpy">
+<area shape="rect" id="node1" title="copies video memory to a second buffer that draws image on the screen" alt="" coords="461,5,552,32"/>
+<area shape="rect" id="node2" href="$game_8h.html#aa2deaf0f63ca4a73a37b86d05678fb46" title="main game function which contains the driver receive loop and controls every device interruptions for..." alt="" coords="176,5,267,32"/>
+<area shape="rect" id="node4" href="$game_8h.html#abf46486d68a06b8bc67de0cb4a4308d6" title="main menu function that controls the mouse movement on the screen, and checks if the mouse is on top ..." alt="" coords="315,31,413,57"/>
+<area shape="rect" id="node3" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,128,32"/>
+</map>

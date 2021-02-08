@@ -1,0 +1,6 @@
+<map id="rtc_read_hour" name="rtc_read_hour">
+<area shape="rect" id="node1" title="Reads current hour." alt="" coords="5,31,116,57"/>
+<area shape="rect" id="node2" href="$group__rtc.html#gafb27320c4d7c6aedf0d9e7989ae59ebd" title="Converts number from bcd to decimal." alt="" coords="164,5,288,32"/>
+<area shape="rect" id="node3" href="$group__rtc.html#gaa9dcd317e26ad6ebdace3594ff80fa86" title="Reads data from a rtc register." alt="" coords="189,56,263,83"/>
+<area shape="rect" id="node4" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="336,56,435,83"/>
+</map>

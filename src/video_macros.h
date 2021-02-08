@@ -1,0 +1,14 @@
+#ifndef _VIDEO_MACROS_H_
+#define _VIDEO_MACROS_H_
+
+//bytes escritos no ax.
+#define RETURN_VBE_CONTROLLER_INFORMATION 0x4F00
+#define RETURN_VBE_MODE_INFORMATION 0x4F01
+#define SET_VBE_MODE 0x4F02
+#define RETURN_CURRENT_VBE_MODE 0x4F03
+#define PROTECTED_MODE 0x4F07
+
+//modes
+#define INDEXED_MODE 0x105
+
+#endif

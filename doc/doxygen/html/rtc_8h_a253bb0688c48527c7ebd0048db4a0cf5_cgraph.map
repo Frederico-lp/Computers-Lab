@@ -1,0 +1,7 @@
+<map id="day_or_night" name="day_or_night">
+<area shape="rect" id="node1" title="Determines if is currently day or night(assuming day from 8h to 19h)" alt="" coords="5,31,112,57"/>
+<area shape="rect" id="node2" href="$rtc_8c.html#a2415d7184347453428567298de09aef6" title="Reads current hour." alt="" coords="160,31,271,57"/>
+<area shape="rect" id="node3" href="$rtc_8c.html#afb27320c4d7c6aedf0d9e7989ae59ebd" title="Converts number from bcd to decimal." alt="" coords="319,5,443,32"/>
+<area shape="rect" id="node4" href="$rtc_8c.html#aa9dcd317e26ad6ebdace3594ff80fa86" title="Reads data from a rtc register." alt="" coords="343,56,418,83"/>
+<area shape="rect" id="node5" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="491,56,589,83"/>
+</map>

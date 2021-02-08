@@ -1,0 +1,7 @@
+<map id="run_until_esc" name="run_until_esc">
+<area shape="rect" id="node1" title="exits the function when esc key is released, stays in loop otherwise" alt="" coords="5,56,113,83"/>
+<area shape="rect" id="node2" href="$group__keyboard.html#gaea970a154161a35f6894898a092ed70a" title="Handles the Keybpard interrupts." alt="" coords="225,5,289,32"/>
+<area shape="rect" id="node4" href="$group__keyboard.html#ga178b1db0b319dccad2840cc3fd273132" title="Subscribes the keyboard interrupts." alt="" coords="169,56,344,83"/>
+<area shape="rect" id="node5" href="$group__keyboard.html#ga32cc4de66854f8a7bd909e7aa8b901ed" title="Unsubscribes the keyboard interrupts." alt="" coords="161,107,352,133"/>
+<area shape="rect" id="node3" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="400,5,499,32"/>
+</map>

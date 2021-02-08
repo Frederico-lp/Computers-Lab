@@ -1,0 +1,8 @@
+<map id="vg_draw_rectangle" name="vg_draw_rectangle">
+<area shape="rect" id="node1" title=" " alt="" coords="503,81,648,108"/>
+<area shape="rect" id="node2" href="$group__game.html#ga600fdb177cba954c38f6b43e84c75e67" title="calculates and updates ball movement" alt="" coords="323,5,447,32"/>
+<area shape="rect" id="node3" href="$group__game.html#gaa2deaf0f63ca4a73a37b86d05678fb46" title="main game function which contains the driver receive loop and controls every device interruptions for..." alt="" coords="176,81,267,108"/>
+<area shape="rect" id="node5" href="$group__game.html#gabf46486d68a06b8bc67de0cb4a4308d6" title="main menu function that controls the mouse movement on the screen, and checks if the mouse is on top ..." alt="" coords="335,107,434,133"/>
+<area shape="rect" id="node6" href="$group__game.html#gab1ab09864d42b680af7cd5cc184bf8c1" title="calculates and updates the rackets movements" alt="" coords="315,157,455,184"/>
+<area shape="rect" id="node4" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,81,128,108"/>
+</map>
